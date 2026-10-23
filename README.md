@@ -1,2 +1,2 @@
-# Cumpix
-Landing de Cumpix, por Nación Data. Sitio estático servido con Caddy (Railway).
+# Cumplex
+Landing de Cumplex, por Nación Data. Sitio estático servido con Caddy (Railway).
